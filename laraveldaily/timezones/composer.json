@@ -1,0 +1,12 @@
+{
+    "name": "pratikshah99/laraveldaily",
+    "description": "Demo package to show time",
+    "authors": [
+        {
+            "name": "Pratik",
+            "email": "pratik@wordsworthelt.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
